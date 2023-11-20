@@ -5,7 +5,7 @@ const products = [
   {
     id: 1,
     title: "Azadi Model",
-    price: 190000,
+    price: 180000,
     p: "YJ Future Azadi modal motor power.       850 W Range.                   80-85 km Speed.                  60 km/h Battery type         12V 23 ah Graphene batteries battery life.           3 years cycels 1000 Charge time.        4-5 hours Security.               Anti theft Alarm , handel lock - Reverse Gear - Disk brake - Digital Speedo meter - Load capacity 300 kg - 3 power modes - ample trunk space - avilable in 3 colours Black , white , Red Six Months of battery, motor, controller warranty",
     colors: [
       {
@@ -21,7 +21,7 @@ const products = [
   {
     id: 2,
     title: "Mehran Model",
-    price: 170000,
+    price: 160000,
     p:"YJ Future Mehran modal motor power:650 W\nRange.70-75 km\nSpeed.60 km/h\nBattery type12V 23 ah Graphene batteries\nbattery life.3 years cycels 1000\nCharge time.3-4hours\nSecurity.Anti theft Alarm , handel lock\n- Coast one unit electricity\n- Drum brakes\n- Digital Speedo meter\n- Load capacity 300 kg\n- 3 power modes\n- ample trunk space\n- avilable in 3 colours Yellow , Sea Blue , Red\nSix Months of battery, motor, controller warranty",
     colors: [
       {
